@@ -19,10 +19,10 @@ Each level has:
 ---
 
 ## Repository Structure
-level_1_code.ipynb
-level_2_code.ipynb
-level_3_code.ipynb
-models/
-results/
-requirements.txt
-README.md
+- level_1_code.ipynb
+- level_2_code.ipynb
+- level_3_code.ipynb
+- models/
+- results/
+- requirements.txt
+- README.md
